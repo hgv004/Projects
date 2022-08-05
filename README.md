@@ -1,2 +1,2 @@
 # Projects
-Hardik's Projects
+Data Science Projects
