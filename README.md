@@ -1,2 +1,2 @@
-# Machine-Learning
-Hardik's ML Projects
+# Projects
+Hardik's Projects
